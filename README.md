@@ -31,3 +31,9 @@ Mi nombre es *__Alberto__* y estoy en la 301
 ```
 [Enlace a wikipedia](https://es.wikipedia.org " Haz clic para ir a wikipedia")
 ![logo wikipedia](https://github.com/AlbertoDeSantos/repasoGithub/blob/main/logoWikipedia.png "titulo opcional")
+
+| Encabezado1 | Encabezado2 | Encabezado 3|
+| ----------- |:----------:| --------:|
+| Item1 | Boligrafos| 20€ |
+| Item2 | Grapadoras| 1000€ |
+| Item3 | lapices| 150€ |
