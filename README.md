@@ -22,3 +22,10 @@ Mi nombre es *__Alberto__* y estoy en la 301
 
 + Tercer formato lista desordenada
 + Segundo elemento
+
+```html
+<html>
+  <head>
+  </head>
+</html>
+```
