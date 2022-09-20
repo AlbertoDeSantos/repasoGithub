@@ -30,3 +30,4 @@ Mi nombre es *__Alberto__* y estoy en la 301
 </html>
 ```
 [Enlace a wikipedia](https://es.wikipedia.org " Haz clic para ir a wikipedia")
+![logo wikipedia](https://github.com/AlbertoDeSantos/repasoGithub/blob/main/logoWikipedia.png "titulo opcional")
